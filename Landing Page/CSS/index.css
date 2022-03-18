@@ -1,0 +1,113 @@
+.container{
+    background-color: #86C6F4;
+    position: relative;
+    padding-top: 10px;
+    
+}
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 95%;
+    
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
+    margin-top: 100px;
+    color: #35589A;
+    
+}
+.bottom-cloud{
+    width: 12%;
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.top-cloud{
+    width: 12%;
+   position: absolute;
+   right: 250px;
+   top: 10px;    
+}
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 1.7rem;
+    color: #35589A;   
+}
+
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: #35589A;
+}
+.an-img{
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.web-development{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+p{
+    line-height: 2;
+}
+
+.footer-link{
+    text-decoration: none;
+    padding: 20px;
+    color: #35589A;
+    font-size: 0.9rem;
+}
+.title-about{
+    font-weight: normal;
+    padding: 20px;
+}
+.skill-row{
+    width: 50%;  
+    margin: 60px auto 60px auto;
+    text-align: left;
+}
+.front-end-png{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+hr{
+    width: 7%;
+    border-style: none;
+    border-top-style: dotted;
+    color: #dad8c7;
+    border-width: 6px;
+    
+}
+.footer-end{
+    background-color: #00B4D8;
+    padding: 30px;
+}
+.footer-p{
+    color: white;
+}
+.footer-btn{
+    background-color:#00B4D8;
+    padding: 10px 30px 10px 30px;
+    border-radius: 9px;
+    border-width: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.footer-btn:hover{
+    background-color: #40514E;
+}
+
+.in-touch{
+    width: 30%;
+    margin: auto;
+}
+.btn{
+    margin: 50px auto 50px auto;
+}
+.web-3{
+    margin-top: 90px;
+}
